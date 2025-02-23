@@ -1,2 +1,2 @@
-# NT131.O21_Nh-ng
+# EmbeddedSystemsAndWirelessNetworks
 Hệ Thống Nhúng Và Mạng Không Dây 
